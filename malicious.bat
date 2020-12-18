@@ -1,0 +1,1 @@
+ECHO 'Hello from Redguard!'
